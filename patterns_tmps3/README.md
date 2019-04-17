@@ -51,7 +51,7 @@ Example of code:
        ![alt text](https://pp.userapi.com/c845217/v845217586/1e4e48/M7PZWyl6u4Y.jpg "Users and Admin")
         commandArrayList.add(new Command.SubscribeCommand(0, "Ion", "31.12.1995", "Mobile App"));
         commandArrayList.add(new Command.SubscribeCommand(1, "Irina", "30.12.1995", "Mobile App"));
-        commandArrayList.add(new Command.SubscribeCommand(Illay));
+        commandArrayList.add(new Command.SubscribeCommand(Illay)); 
 
 
     Memento.Backup.makeOneBackup(commandArrayList);
