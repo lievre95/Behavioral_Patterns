@@ -48,7 +48,7 @@ Example of code:
 
         ArrayList<Command.ExecCommand> commandArrayList = new ArrayList<>();
 ```
-       ![alt text](https://pp.userapi.com/c845217/v845217586/1e4e48/M7PZWyl6u4Y.jpg "Users and Admin")
+![alt text](https://pp.userapi.com/c845217/v845217586/1e4e48/M7PZWyl6u4Y.jpg "Users and Admin")
        
 ```
         commandArrayList.add(new Command.SubscribeCommand(0, "Ion", "31.12.1995", "Mobile App"));
